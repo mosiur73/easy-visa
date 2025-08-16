@@ -27,7 +27,7 @@ export function Navbar() {
 
   const navItems = [
     { key: "home", label: "Home", href: "/" },
-    { key: "services", label: "Visa Services", href: "/services" },
+    { key: "services", label: "Visa Services", href: "/visa-services" },
     { key: "application", label: "My Application", href: "/application" },
    
   ]

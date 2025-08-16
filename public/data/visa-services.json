@@ -1,0 +1,153 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tourist Visa",
+    "description": "Perfect for leisure travel, sightseeing, and visiting friends or family. Includes comprehensive documentation support and expedited processing options.",
+    "processingTime": "5-7 business days",
+    "category": "Tourism",
+    "price": "$150",
+    "requirements": ["Valid passport", "Travel itinerary", "Proof of accommodation"],
+    "image": "https://i.ibb.co.com/1GgTSZJS/jumbo-jet-flying-sky.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Business Visa",
+    "description": "Designed for business meetings, conferences, and professional engagements. Fast-track processing available for urgent business needs.",
+    "processingTime": "3-5 business days",
+    "category": "Business",
+    "price": "$200",
+    "requirements": ["Business invitation letter", "Company registration", "Financial statements"],
+    "image": "https://i.ibb.co.com/Z6M6CnJD/banner1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Student Visa",
+    "description": "For academic pursuits including university studies, research programs, and educational exchanges. Includes guidance on documentation requirements.",
+    "processingTime": "10-15 business days",
+    "category": "Education",
+    "price": "$180",
+    "requirements": ["Admission letter", "Financial proof", "Academic transcripts"],
+    "image": "https://i.ibb.co.com/Z6M6CnJD/banner1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Work Visa",
+    "description": "Employment-based visa for professionals seeking work opportunities abroad. Comprehensive support for work permit applications.",
+    "processingTime": "15-20 business days",
+    "category": "Employment",
+    "price": "$250",
+    "requirements": ["Job offer letter", "Work contract", "Professional qualifications"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 5,
+    "name": "Transit Visa",
+    "description": "Short-term visa for travelers passing through the country to reach their final destination. Quick processing for urgent travel needs.",
+    "processingTime": "1-3 business days",
+    "category": "Transit",
+    "price": "$75",
+    "requirements": ["Flight tickets", "Final destination visa", "Valid passport"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 6,
+    "name": "Family Reunion Visa",
+    "description": "For joining family members residing abroad. Specialized assistance for family-based immigration and reunion processes.",
+    "processingTime": "20-30 business days",
+    "category": "Family",
+    "price": "$220",
+    "requirements": ["Family relationship proof", "Sponsor documents", "Financial support evidence"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 7,
+    "name": "Medical Visa",
+    "description": "For medical treatment and healthcare services abroad. Expedited processing available for urgent medical situations.",
+    "processingTime": "7-10 business days",
+    "category": "Medical",
+    "price": "$190",
+    "requirements": ["Medical reports", "Hospital invitation", "Treatment cost estimate"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 8,
+    "name": "Investment Visa",
+    "description": "For entrepreneurs and investors looking to establish business ventures. Comprehensive support for investment documentation.",
+    "processingTime": "25-35 business days",
+    "category": "Investment",
+    "price": "$350",
+    "requirements": ["Investment plan", "Financial statements", "Business proposal"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 9,
+    "name": "Diplomatic Visa",
+    "description": "For government officials, diplomats, and international organization representatives. Specialized processing for official government business.",
+    "processingTime": "5-10 business days",
+    "category": "Official",
+    "price": "$300",
+    "requirements": ["Diplomatic note", "Official letter", "Government ID"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 10,
+    "name": "Journalist Visa",
+    "description": "For media professionals, reporters, and journalists covering events or conducting interviews. Fast-track processing available.",
+    "processingTime": "7-12 business days",
+    "category": "Media",
+    "price": "$175",
+    "requirements": ["Press credentials", "Assignment letter", "Media organization proof"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 11,
+    "name": "Religious Visa",
+    "description": "For religious workers, missionaries, and spiritual leaders attending religious events or conducting religious activities.",
+    "processingTime": "10-15 business days",
+    "category": "Religious",
+    "price": "$160",
+    "requirements": ["Religious organization letter", "Purpose statement", "Sponsorship documents"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 12,
+    "name": "Cultural Exchange Visa",
+    "description": "For artists, performers, and cultural ambassadors participating in cultural programs and exchange initiatives.",
+    "processingTime": "12-18 business days",
+    "category": "Cultural",
+    "price": "$185",
+    "requirements": ["Program invitation", "Cultural organization letter", "Performance schedule"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 13,
+    "name": "Sports Visa",
+    "description": "For athletes, coaches, and sports officials participating in competitions, training, or sporting events abroad.",
+    "processingTime": "8-14 business days",
+    "category": "Sports",
+    "price": "$170",
+    "requirements": ["Sports federation letter", "Competition invitation", "Athletic credentials"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 14,
+    "name": "Research Visa",
+    "description": "For researchers, scientists, and academics conducting research projects or collaborating with international institutions.",
+    "processingTime": "15-25 business days",
+    "category": "Research",
+    "price": "$210",
+    "requirements": ["Research proposal", "Institution invitation", "Academic credentials"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 15,
+    "name": "Retirement Visa",
+    "description": "For retirees seeking to relocate and enjoy their retirement years abroad. Long-term visa options with renewal support.",
+    "processingTime": "20-30 business days",
+    "category": "Retirement",
+    "price": "$280",
+    "requirements": ["Retirement proof", "Financial statements", "Health insurance"],
+    "image": "/placeholder.svg?height=200&width=300"
+  }
+]

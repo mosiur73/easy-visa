@@ -38,7 +38,7 @@
     "category": "Employment",
     "price": "$250",
     "requirements": ["Job offer letter", "Work contract", "Professional qualifications"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/35zdcps4/download-1.jpg"
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "category": "Transit",
     "price": "$75",
     "requirements": ["Flight tickets", "Final destination visa", "Valid passport"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
   },
   {
     "id": 6,
@@ -58,7 +58,7 @@
     "category": "Family",
     "price": "$220",
     "requirements": ["Family relationship proof", "Sponsor documents", "Financial support evidence"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/WW7vCVXH/travel-discovering-places-with-love-ones.jpg"
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@
     "category": "Medical",
     "price": "$190",
     "requirements": ["Medical reports", "Hospital invitation", "Treatment cost estimate"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/Ps6Xj8bM/download.jpg"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "category": "Investment",
     "price": "$350",
     "requirements": ["Investment plan", "Financial statements", "Business proposal"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/jPSZft8T/images.jpg"
   },
   {
     "id": 9,
@@ -88,7 +88,7 @@
     "category": "Official",
     "price": "$300",
     "requirements": ["Diplomatic note", "Official letter", "Government ID"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/35zdcps4/download-1.jpg"
   },
   {
     "id": 10,
@@ -98,7 +98,7 @@
     "category": "Media",
     "price": "$175",
     "requirements": ["Press credentials", "Assignment letter", "Media organization proof"],
-    "image": "/placeholder.svg?height=200&width=300"
+     "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
   },
   {
     "id": 11,
@@ -108,7 +108,7 @@
     "category": "Religious",
     "price": "$160",
     "requirements": ["Religious organization letter", "Purpose statement", "Sponsorship documents"],
-    "image": "/placeholder.svg?height=200&width=300"
+     "image": "https://i.ibb.co.com/Z6M6CnJD/banner1.jpg"
   },
   {
     "id": 12,
@@ -118,7 +118,7 @@
     "category": "Cultural",
     "price": "$185",
     "requirements": ["Program invitation", "Cultural organization letter", "Performance schedule"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/1GgTSZJS/jumbo-jet-flying-sky.jpg"
   },
   {
     "id": 13,
@@ -128,7 +128,7 @@
     "category": "Sports",
     "price": "$170",
     "requirements": ["Sports federation letter", "Competition invitation", "Athletic credentials"],
-    "image": "/placeholder.svg?height=200&width=300"
+   "image": "https://i.ibb.co.com/Ps6Xj8bM/download.jpg"
   },
   {
     "id": 14,
@@ -138,7 +138,7 @@
     "category": "Research",
     "price": "$210",
     "requirements": ["Research proposal", "Institution invitation", "Academic credentials"],
-    "image": "/placeholder.svg?height=200&width=300"
+    "image": "https://i.ibb.co.com/WW7vCVXH/travel-discovering-places-with-love-ones.jpg"
   },
   {
     "id": 15,
@@ -148,6 +148,6 @@
     "category": "Retirement",
     "price": "$280",
     "requirements": ["Retirement proof", "Financial statements", "Health insurance"],
-    "image": "/placeholder.svg?height=200&width=300"
+     "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
   }
 ]

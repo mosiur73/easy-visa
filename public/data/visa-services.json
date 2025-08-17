@@ -48,7 +48,7 @@
     "category": "Transit",
     "price": "$75",
     "requirements": ["Flight tickets", "Final destination visa", "Valid passport"],
-    "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
+    "image": "https://i.ibb.co.com/WW7vCVXH/travel-discovering-places-with-love-ones.jpg"
   },
   {
     "id": 6,
@@ -98,7 +98,7 @@
     "category": "Media",
     "price": "$175",
     "requirements": ["Press credentials", "Assignment letter", "Media organization proof"],
-     "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
+     "image": "https://i.ibb.co.com/1YgWY3vG/download.jpg"
   },
   {
     "id": 11,
@@ -148,6 +148,6 @@
     "category": "Retirement",
     "price": "$280",
     "requirements": ["Retirement proof", "Financial statements", "Health insurance"],
-     "image": "https://i.ibb.co.com/HLQGcH5J/aerial-shot-downtown-los-angeles-night.jpg"
+     "image": "https://i.ibb.co.com/LXzknBZ6/download-2.jpg"
   }
 ]

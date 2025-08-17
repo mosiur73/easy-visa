@@ -12,7 +12,7 @@ import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { toast } from "sonner"
 import { User, FileText, CreditCard, CheckCircle, Save, AlertCircle, Globe } from "lucide-react"
-
+import Head from "next/head";
 
 
 
@@ -128,7 +128,7 @@ export default function MyApplicationPage() {
         })
       } catch (error) {
         console.error("Error parsing saved application data:", error)
-        // Keep default empty state if parsing fails
+   
       }
     }
   }, [])
@@ -168,11 +168,11 @@ export default function MyApplicationPage() {
 
     setLoading(true)
     try {
-      // Simulate API call
+      
       await new Promise((resolve) => setTimeout(resolve, 1000))
 
       saveToLocalStorage(applicationData)
-      setFormErrors({}) // Clear any validation errors after successful save
+      setFormErrors({}) 
       toast.success("Application details saved successfully! Your progress has been saved.")
     } catch (error) {
       toast.error("Failed to save application details. Please try again.")
@@ -201,7 +201,10 @@ export default function MyApplicationPage() {
   return (
     <div className="min-h-screen bg-background text-foreground">
      
-
+       <Head>
+        <title>Visa Service Portal | Home</title>
+        <meta name="description" content="Explore visa services and track your application easily." />
+      </Head>
       <div className="container mx-auto px-4 py-8">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-blue-600 dark:from-primary dark:to-blue-400 bg-clip-text text-transparent mb-2">

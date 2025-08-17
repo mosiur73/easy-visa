@@ -1,5 +1,5 @@
 "use client"
-
+import Head from "next/head";
 import { useState, useEffect } from "react"
 import { Input, Select, Card, Row, Col, Typography, Tag, Button, Space } from "antd"
 import { SearchOutlined, ClockCircleOutlined, DollarOutlined, FileTextOutlined, ArrowRightOutlined } from "@ant-design/icons"
@@ -94,6 +94,10 @@ export default function VisaServicesPage() {
 
   return (
     <div style={{ minHeight: "100vh", backgroundColor: "#f5f5f5" }}>
+       <Head>
+        <title> Visa Services</title>
+        <meta name="description" content="Browse available visa services, view processing times, and requirements." />
+      </Head>
       {/* Header Section */}
       <div
         style={{
@@ -173,6 +177,7 @@ export default function VisaServicesPage() {
                       alt={service.name}
                       fill
                       style={{ objectFit: "cover" }}
+                       priority 
                     />
                   </div>
                 }

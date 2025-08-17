@@ -8,7 +8,7 @@ import VisaCard from "@/components/landing/VisaCard";
 
 export default function Home() {
   return (
-    <div>
+    <>
         <Head>
         <title> Home</title>
         <meta name="description" content="Explore visa services and track your application easily." />
@@ -18,6 +18,6 @@ export default function Home() {
      <VisaPage></VisaPage>
      <VisaType></VisaType>
      <VisaCard></VisaCard>
-    </div>
+    </>
   );
 }

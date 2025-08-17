@@ -20,7 +20,8 @@ const VisaType: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
 
           {/* Card 1 */}
-          <div className="bg-white rounded-lg shadow-xl p-8 flex-1 border border-gray-200">
+          <div className="bg-white rounded-lg shadow-xl p-8 flex-1 border border-gray-200 
+                          hover:shadow-2xl hover:scale-105 transform transition-all duration-300 ease-in-out">
             <h2 className="text-xl sm:text-2xl font-bold mb-4 text-center">
               Apply online <br /> anytime anywhere
             </h2>
@@ -33,7 +34,8 @@ const VisaType: React.FC = () => {
           </div>
 
           {/* Card 2 */}
-          <div className="bg-white rounded-lg shadow-xl p-8 flex-1 border border-gray-200">
+          <div className="bg-white rounded-lg shadow-xl p-8 flex-1 border border-gray-200
+                          hover:shadow-2xl hover:scale-105 transform transition-all duration-300 ease-in-out">
             <h2 className="text-xl sm:text-2xl text-center font-bold mb-4">
               Enjoy our 24 hours <br /> online visa service
             </h2>
@@ -49,7 +51,8 @@ const VisaType: React.FC = () => {
 
         {/* Card 3 */}
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 max-w-2xl mx-auto">
-          <div className="bg-white rounded-lg shadow-xl p-8 border border-gray-200">
+          <div className="bg-white rounded-lg shadow-xl p-8 border border-gray-200
+                          hover:shadow-2xl hover:scale-105 transform transition-all duration-300 ease-in-out">
             <h2 className="text-xl sm:text-2xl text-center font-bold mb-4">
               Our 24/7 customer <br /> support at any time
             </h2>
